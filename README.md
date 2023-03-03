@@ -30,8 +30,15 @@ pkg install termcolor
 pkg install prettytable
 (Enter)
 
-git clone 
+git clone https://github.com/ardhysevenfold/WINNN 1
+(enter)
 
+cd 1
+(enter)
 
+python BOTv41.py
+(enter)
+
+enjoy
 
 kalo error silahkan whatsapp sy 085796297189
